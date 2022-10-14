@@ -1,0 +1,25 @@
+body {
+  background-image: url('../img/Sonny.jpeg');
+}
+h2 {
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+.white {
+  color: white;
+}
+p.bold {
+  text-emphasis: bold;
+}
+.sidebar {
+  width: 30%;
+  float: left;
+}
+.box {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: rgba(0,0,0,.5);
+}
