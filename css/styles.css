@@ -1,5 +1,8 @@
 body {
   background-image: url('../img/Sonny.jpeg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 h2 {
   color: white;
@@ -22,4 +25,22 @@ p.bold {
   border: 2px solid black;
   padding: 4px;
   background-color: rgba(0,0,0,.5);
+}
+.indent {
+  float: left;
+  padding: 5px;
+}
+.highlight {
+  background-color: rgb(6, 242, 6);
+}
+.box2 {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: rgba(0,0,0,.5);
+  float: right;
+
+}
+img{
+  float:right;
 }
