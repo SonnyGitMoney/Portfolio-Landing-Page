@@ -13,9 +13,6 @@ h1 {
 .white {
   color: white;
 }
-p.bold {
-  text-emphasis: bold;
-}
 .sidebar {
   width: 30%;
   float: left;
@@ -36,11 +33,15 @@ p.bold {
 .box2 {
   margin: 12px;
   border: 2px solid black;
-  padding: 4px;
+  padding: 8px;
   background-color: rgba(0,0,0,.5);
   float: right;
 
 }
 img{
   float:right;
+  border: 5px solid rgb(6, 242, 6)
+}
+.bold {
+  text-emphasis: 300;
 }
