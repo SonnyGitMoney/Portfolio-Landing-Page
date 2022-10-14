@@ -36,12 +36,8 @@ h1 {
   padding: 8px;
   background-color: rgba(0,0,0,.5);
   float: right;
-
 }
 img{
   float:right;
   border: 5px solid rgb(6, 242, 6)
-}
-.bold {
-  text-emphasis: 300;
 }
